@@ -78,6 +78,6 @@ app.post('/register', (req, res)=>{
 	})
 })
 const server = http.createServer(app);
-server.listen(8080, ()=>{
-	console.log('Server is running on port 8080')
+server.listen(3000, ()=>{
+	console.log('Server is running on port 3000')
 })
