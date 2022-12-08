@@ -1,0 +1,22 @@
+{
+  "name": "imhotep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imhotep-education/imhotep_education.git"
+  },
+  "author": "Ignacio Nicolas Fernandez - nfcreaction",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imhotep-education/imhotep_education/issues"
+  },
+  "homepage": "https://github.com/Imhotep-education/imhotep_education#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
